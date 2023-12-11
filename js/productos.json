@@ -1,181 +1,181 @@
 [
   {
-    "id": "abrigo-01",
-    "titulo": "Abrigo 01",
-    "imagen": "./img/abrigos/01.jpg",
+    "id": "adidas-01",
+    "titulo": "Ultraboost Light Unisex",
+    "imagen": "./img/adidas/ad_01.jfif",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "Adidas",
+      "id": "adidas"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-02",
-    "titulo": "Abrigo 02",
-    "imagen": "./img/abrigos/02.jpg",
+    "id": "adidas-02",
+    "titulo": "Start your run",
+    "imagen": "../img/adidas/ad_02.jfif",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "Adidas",
+      "id": "adidas"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-03",
-    "titulo": "Abrigo 03",
-    "imagen": "./img/abrigos/03.jpg",
+    "id": "adidas-03",
+    "titulo": "Duramo 10",
+    "imagen": "./img/adidas/ad_03.jfif",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "Adidas",
+      "id": "adidas"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-04",
-    "titulo": "Abrigo 04",
-    "imagen": "./img/abrigos/04.jpg",
+    "id": "adidas-04",
+    "titulo": "Solar Glide 5",
+    "imagen": "./img/adidas/ad_04.jfif",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "Adidas",
+      "id": "adidas"
     },
     "precio": 1000
   },
   {
-    "id": "abrigo-05",
-    "titulo": "Abrigo 05",
-    "imagen": "./img/abrigos/05.jpg",
+    "id": "adidas-05",
+    "titulo": "Gamecourt 2.0",
+    "imagen": "./img/adidas/ad_05.jfif",
     "categoria": {
-      "nombre": "Abrigos",
-      "id": "abrigos"
+      "nombre": "Adidas",
+      "id": "adidas"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-01",
-    "titulo": "Camiseta 01",
-    "imagen": "./img/camisetas/01.jpg",
+    "id": "nike-01",
+    "titulo": "Air Zoom Pegasus",
+    "imagen": "./img/nike/nk_01.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-02",
-    "titulo": "Camiseta 02",
-    "imagen": "./img/camisetas/02.jpg",
+    "id": "nike-02",
+    "titulo": "Downshifter 12",
+    "imagen": "./img/nike/nk_02.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-03",
-    "titulo": "Camiseta 03",
-    "imagen": "./img/camisetas/03.jpg",
+    "id": "nike-03",
+    "titulo": "Revolution 6 Next Nature",
+    "imagen": "./img/nike/nk_03.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-04",
-    "titulo": "Camiseta 04",
-    "imagen": "./img/camisetas/04.jpg",
+    "id": "nike-04",
+    "titulo": "Air Max SC",
+    "imagen": "./img/nike/nk_04.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-05",
-    "titulo": "Camiseta 05",
-    "imagen": "./img/camisetas/05.jpg",
+    "id": "nike-05",
+    "titulo": "Metcon 8 Flyease",
+    "imagen": "./img/nike/nk_05.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-06",
-    "titulo": "Camiseta 06",
-    "imagen": "./img/camisetas/06.jpg",
+    "id": "nike-06",
+    "titulo": "Zoom Winflo 8",
+    "imagen": "./img/nike/nk_06.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-07",
-    "titulo": "Camiseta 07",
-    "imagen": "./img/camisetas/07.jpg",
+    "id": "nike-07",
+    "titulo": "Zoom Fly 5",
+    "imagen": "./img/nike/nk_07.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "camiseta-08",
-    "titulo": "Camiseta 08",
-    "imagen": "./img/camisetas/08.jpg",
+    "id": "nike-08",
+    "titulo": "Quest 5",
+    "imagen": "./img/nike/nk_08.jfif",
     "categoria": {
-      "nombre": "Camisetas",
-      "id": "camisetas"
+      "nombre": "Nike",
+      "id": "nike"
     },
     "precio": 1000
   },
   {
-    "id": "pantalon-01",
-    "titulo": "Pantalón 01",
-    "imagen": "./img/pantalones/01.jpg",
+    "id": "topper-01",
+    "titulo": "Squat",
+    "imagen": "./img/topper/to_01.jfif",
     "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
+      "nombre": "Topper",
+      "id": "topper"
     },
     "precio": 1000
   },
   {
-    "id": "pantalon-02",
-    "titulo": "Pantalón 02",
-    "imagen": "./img/pantalones/02.jpg",
+    "id": "topper-02",
+    "titulo": "Candun Cs",
+    "imagen": "./img/topper/to_02.jfif",
     "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
+      "nombre": "Topper",
+      "id": "topper"
     },
     "precio": 1000
   },
   {
-    "id": "pantalon-03",
-    "titulo": "Pantalón 03",
-    "imagen": "./img/pantalones/03.jpg",
+    "id": "topper-03",
+    "titulo": "Beat",
+    "imagen": "./img/topper/to_03.jfif",
     "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
+      "nombre": "Topper",
+      "id": "topper"
     },
     "precio": 1000
   },
   {
-    "id": "pantalon-04",
-    "titulo": "Pantalón 04",
-    "imagen": "./img/pantalones/04.jpg",
+    "id": "topper-04",
+    "titulo": "Circus",
+    "imagen": "./img/topper/to_04.jfif",
     "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
+      "nombre": "Topper",
+      "id": "topper"
     },
     "precio": 1000
   },
   {
-    "id": "pantalon-05",
-    "titulo": "Pantalón 05",
-    "imagen": "./img/pantalones/05.jpg",
+    "id": "topper-05",
+    "titulo": "Split",
+    "imagen": "./img/topper/to_05.jfif",
     "categoria": {
-      "nombre": "Pantalones",
-      "id": "pantalones"
+      "nombre": "Topper",
+      "id": "topper"
     },
     "precio": 1000
   }
